@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlockPattern2", "UnlockPattern2.csproj", "{3DE34BC4-5227-4A95-BB02-D3F10E463853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE34BC4-5227-4A95-BB02-D3F10E463853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE34BC4-5227-4A95-BB02-D3F10E463853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE34BC4-5227-4A95-BB02-D3F10E463853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE34BC4-5227-4A95-BB02-D3F10E463853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE8FACD-3791-489C-85EB-FB0FD0A2DD8F}
+	EndGlobalSection
+EndGlobal
